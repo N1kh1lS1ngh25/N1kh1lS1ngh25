@@ -49,7 +49,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=0NikhilSingh5&show_icons=true&theme=radical)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0NikhilSingh5&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![SHOW](https://github-readme-stats.vercel.app/api/top-langs/?username=0NikhilSingh5&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 </div>
 
 
