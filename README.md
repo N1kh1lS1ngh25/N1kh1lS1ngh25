@@ -1,65 +1,108 @@
-<img src="https://visitor-badge.laobi.icu/badge?page_id=N1kh1lS1ngh25.N1kh1lS1ngh25" />
+<div align="center">
+
+<a href="https://codenickk.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=DC4405&center=true&vCenter=true&width=620&height=55&lines=Nikhil+Singh;Cloud+Engineer%2C+mostly+AWS;Boring+infrastructure%2C+on+purpose" alt="Nikhil Singh — Cloud Engineer, mostly AWS" />
+</a>
+
+**Cloud Engineer** &nbsp;·&nbsp; AWS &nbsp;·&nbsp; India
+
+[**codenickk.com**](https://codenickk.com) &nbsp;·&nbsp;
+[apps](https://apps.codenickk.com) &nbsp;·&nbsp;
+[linkedin](https://linkedin.com/in/nikhilsingh08) &nbsp;·&nbsp;
+[x](https://x.com/itsyournickkk) &nbsp;·&nbsp;
+[mail](mailto:0nikhilsingh5@gmail.com)
+
+</div>
+
+I build the unglamorous plumbing — auth platforms, infrastructure-as-code, deploy pipelines — and
+obsess over making it boring enough that the rest of the team forgets it's there. Big fan of
+Terraform plans that read like prose, deploys nobody has to babysit, and observability that catches
+things before the customer does.
+
+Currently **Cloud Engineer at Enetro AI**. Before that, Associate Solutions Architect at Readywire
+and Associate Engineer at TCS. AWS Certified Developer – Associate.
+
+---
+
+## 01 — Now
+
+#### Shramik &nbsp;→&nbsp; [shramik.codenickk.com](https://shramik.codenickk.com)
+
+Android app that registers informal workers in India and tracks who gets placed where. Kotlin and
+Material on the front, Supabase Postgres behind it — pinned to `ap-south-1` so the PII never leaves
+the country. Shipping **v1.11.0**, and the whole system runs at **₹0/month**, which is a constraint
+rather than an accident.
+
+<sub>App repo private · the public self-registration form is open source: [`shramik-form`](https://github.com/0NikhilSingh5/shramik-form)</sub>
+
+#### fuelmeter &nbsp;→&nbsp; [apps.codenickk.com/fuel](https://apps.codenickk.com/fuel/)
+
+Fuel log for one person: log fills, watch mileage and cost-per-kilometre drift over time. React 19
+and TypeScript on Vite, a service worker so it still works with no signal at a petrol pump, and
+every reading stays in your browser. No signups, no analytics. Moving to its own subdomain next.
+
+<sub>Repo private</sub>
+
+#### codenickk.com &nbsp;→&nbsp; [live](https://codenickk.com)
+
+The Cloud Resume Challenge, finished and still running. Statically-exported Next.js on S3 +
+CloudFront, plus two Python Lambdas behind API Gateway doing the visitor counter and the contact
+form. Routing is two CloudFront edge functions holding up the apex, the apps subdomain, and every
+app under it.
+
+<sub>Source: [`aws-cloud-resume`](https://github.com/0NikhilSingh5/aws-cloud-resume)</sub>
+
+---
+
+## 02 — Stack
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Hi+👋+I'm+Nikhil;" />
-</div>
-<p align="center">
-    🌐 Check out my portfolio website: <a href="https://resume.codenickk.com" target="_blank"><b>resume.codenickk.com</b></a>
-</p>
-<p>I am an experienced <b>Solutions Architect</b> specializing in infrastructure automation and cloud optimization. Proven track record of developing automated solutions for AWS environments reducing operational costs and improving system reliability while streamlining complex workflows.</p>
-<br/>
-<h2 align="center">About me</h2>
-  
-* 🔭**In-Progress:** essl Biometric attendance tracker.
-* 🌱**Learning :** Currently learning ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) and ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-* ✅**Completed :** Second-Price Ad Auction – an ML-Based Bidding System! 🚀💡 ,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  "Cloud Resume challenge(AWS)" by Forest Brazeal 📃
-</div>
-<h2 align="center">⚙️ Tech Stack</h2>
 
-<br/>
-<div align="center">
-<!--     <img src="https://skillicons.dev/icons?i=aws,terraform,python,golang,bash,powershell,html,css,mysql,linux,jenkins,githubactions,docker,git,bitbucket,grafana&perline=08"/><br> -->
-    <table align="center">
-    <tr>
-        <td><img src="https://skillicons.dev/icons?i=aws" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=terraform" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=python" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=golang" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=bash" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=powershell" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=html" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=css" width="50"></td>
-    </tr>
-    <tr>
-        <td><img src="https://skillicons.dev/icons?i=mysql" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=linux" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=jenkins" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=githubactions" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=docker" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=git" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=bitbucket" width="50"></td>
-        <td><img src="https://skillicons.dev/icons?i=grafana" width="50"></td>
-    </tr>
-</table>
+<img src="https://skillicons.dev/icons?i=aws,terraform,docker,jenkins,githubactions,bitbucket,python,kotlin,ts,golang,bash,powershell,mysql,postgres,supabase,linux,git,grafana,react,nextjs,vite,html,css,androidstudio&perline=6" alt="AWS, Terraform, Docker, Jenkins, GitHub Actions, Bitbucket, Python, Kotlin, TypeScript, Go, Bash, PowerShell, MySQL, Postgres, Supabase, Linux, Git, Grafana, React, Next.js, Vite, HTML, CSS, Android Studio" />
+
 </div>
-<br/>
+
+---
+
+## 03 — Signals
 
 <div align="center">
-<h2 align="center">📈 GitHub Stats</h2>
 
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=0NikhilSingh5&show_icons=true&theme=radical)<br/><br/>
-![SHOW](https://github-readme-stats.vercel.app/api/top-langs/?username=0NikhilSingh5&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://streak-stats.demolab.com?user=0NikhilSingh5&hide_border=true&background=0D1117&stroke=21262D&ring=DC4405&fire=DC4405&currStreakLabel=DC4405&sideLabels=8B949E&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&excludeDaysLabel=8B949E" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0NikhilSingh5&bg_color=0D1117&color=C9D1D9&line=DC4405&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity" />
+
 </div>
 
+---
 
-<div align="center" >
-<h2> 🌐 Connect with me</h2>
+## 04 — Shelf
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsingh08)&nbsp;&nbsp;
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:0nikhilsingh5@gmail.com)&nbsp;&nbsp;
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/AdDue6292/?rdt=48963)&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsyournickk)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/-black.svg?logo=X&logoColor=white)](https://x.com/itsyournickkk)&nbsp;&nbsp;
+Older things, still public and still working.
+
+- [`serverless-eSSL-attendance-tracker`](https://github.com/0NikhilSingh5/serverless-eSSL-attendance-tracker) — biometric attendance off the eSSL API. Lambda, API Gateway, S3.
+- [`acumatica_automated_build_publish`](https://github.com/0NikhilSingh5/acumatica_automated_build_publish) — Jenkins pipeline that builds and publishes Acumatica ERP customisations, with rollback.
+- [`aws-rds-optimizer`](https://github.com/0NikhilSingh5/aws-rds-optimizer) — a CPU alarm fires, a Lambda flips on `slow_query_log` and finds who did it.
+- [`iis-config-manager`](https://github.com/0NikhilSingh5/iis-config-manager) — PowerShell GUI for auditing and hardening `web.config` across IIS sites.
+- [`second-price-auction-bidder`](https://github.com/0NikhilSingh5/second-price-auction-bidder) — ML bidding system for second-price ad auctions.
+- [`Useful-Scripts`](https://github.com/0NikhilSingh5/Useful-Scripts) — Bash and PowerShell odds and ends that automate the boring parts.
+
+---
+
+## 05 — Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilsingh08)
+[![Email](https://img.shields.io/badge/Email-DC4405?style=flat-square&logo=gmail&logoColor=white)](mailto:0nikhilsingh5@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/itsyournickkk)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/itsyournickk)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/AdDue6292/)
+
+<br>
+
+<sub>Cloud engineer by day, gamer by night.</sub>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=0NikhilSingh5.0NikhilSingh5&title=visitors&color=DC4405" alt="Visitors" />
 
 </div>
