@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://codenickk.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=DC4405&center=true&vCenter=true&width=620&height=55&lines=Nikhil+Singh;Cloud+Engineer%2C+mostly+AWS;Boring+infrastructure%2C+on+purpose" alt="Nikhil Singh — Cloud Engineer, mostly AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=DC4405&center=true&vCenter=true&width=620&height=55&lines=Nikhil+Singh;Cloud+Engineer%2C;Boring+infrastructure%2C+on+purpose" alt="Nikhil Singh — Cloud Engineer" />
 </a>
 
 **Cloud Engineer** &nbsp;·&nbsp; AWS &nbsp;·&nbsp; India
@@ -19,8 +19,7 @@ obsess over making it boring enough that the rest of the team forgets it's there
 Terraform plans that read like prose, deploys nobody has to babysit, and observability that catches
 things before the customer does.
 
-Currently **Cloud Engineer at Enetro AI**. Before that, Associate Solutions Architect at Readywire
-and Associate Engineer at TCS. AWS Certified Developer – Associate.
+
 
 ---
 
